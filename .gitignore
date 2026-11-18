@@ -1,0 +1,7 @@
+# Personal data and generated files
+expenses.db
+report_*.png
+
+# Python
+__pycache__/
+*.pyc
